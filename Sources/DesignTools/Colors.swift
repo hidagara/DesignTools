@@ -5,7 +5,7 @@
 //  Created by Roman Guseynov on 26.03.2022.
 //
 
-import Foundation
+import UIKit
 public final class Colors {
-    public static let greenColor: CGColor = .black
+    public static let greenColor: UIColor = .green
 }
