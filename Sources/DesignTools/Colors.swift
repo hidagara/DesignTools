@@ -7,5 +7,5 @@
 
 import Foundation
 public final class Colors {
-    static let greenColor: CGColor = .black
+    public static let greenColor: CGColor = .black
 }
