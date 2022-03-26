@@ -21,7 +21,7 @@ public final class BaseTheme: Theme {
     public var backgroundColor: UIColor {
         BaseTheme.dynamicColor(light: 0xD62839, dark: 0xD62839)
     }
-
+    public init() {}
 }
 
 // MARK: - Static
